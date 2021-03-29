@@ -1,0 +1,49 @@
+[17-Mar-2021 14:39:42 UTC] PHP Notice:  Undefined variable: pal_check in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 9
+[17-Mar-2021 14:39:42 UTC] PHP Stack trace:
+[17-Mar-2021 14:39:42 UTC] PHP   1. {main}() C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:0
+[26-Mar-2021 13:45:02 UTC] PHP Notice:  Undefined variable: array in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 101
+[26-Mar-2021 13:45:02 UTC] PHP Stack trace:
+[26-Mar-2021 13:45:02 UTC] PHP   1. {main}() C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:0
+[26-Mar-2021 15:17:24 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:178
+Stack trace:
+#0 {main}
+  thrown in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 178
+[26-Mar-2021 15:17:43 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:178
+Stack trace:
+#0 {main}
+  thrown in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 178
+[26-Mar-2021 15:17:54 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:178
+Stack trace:
+#0 {main}
+  thrown in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 178
+[26-Mar-2021 15:18:19 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:178
+Stack trace:
+#0 {main}
+  thrown in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 178
+[26-Mar-2021 15:18:27 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:178
+Stack trace:
+#0 {main}
+  thrown in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 178
+[26-Mar-2021 15:23:19 UTC] PHP Notice:  Undefined index: noanchor in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 99
+[26-Mar-2021 15:23:19 UTC] PHP Stack trace:
+[26-Mar-2021 15:23:19 UTC] PHP   1. {main}() C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:0
+[26-Mar-2021 15:25:18 UTC] PHP Notice:  Undefined variable: array in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 96
+[26-Mar-2021 15:25:18 UTC] PHP Stack trace:
+[26-Mar-2021 15:25:18 UTC] PHP   1. {main}() C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:0
+[26-Mar-2021 15:34:38 UTC] PHP Notice:  Undefined variable: array in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 96
+[26-Mar-2021 15:34:38 UTC] PHP Stack trace:
+[26-Mar-2021 15:34:38 UTC] PHP   1. {main}() C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:0
+[26-Mar-2021 15:42:05 UTC] PHP Notice:  Undefined variable: array in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 96
+[26-Mar-2021 15:42:05 UTC] PHP Stack trace:
+[26-Mar-2021 15:42:05 UTC] PHP   1. {main}() C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:0
+[26-Mar-2021 15:42:07 UTC] PHP Notice:  Undefined variable: array in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 96
+[26-Mar-2021 15:42:07 UTC] PHP Stack trace:
+[26-Mar-2021 15:42:07 UTC] PHP   1. {main}() C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:0
+[26-Mar-2021 15:42:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function compare_numbers() in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 18
+[26-Mar-2021 15:42:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function compare_numbers() in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\scunningham\Local Sites\no-wordpress\app\public\write.php on line 18
